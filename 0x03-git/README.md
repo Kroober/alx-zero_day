@@ -1,1 +1,3 @@
 My second commit
+git pull
+echo "git pull">up_to_date
